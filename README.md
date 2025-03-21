@@ -1,6 +1,6 @@
 # 컴퓨터 밑바닥의 비밀 요약
 
-![컴퓨터 밑바닥의 비밀 표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791140708819.jpg)
+![컴퓨터 밑바닥의 비밀 표지](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791140708819.jpg)<br>
 [컴퓨터 밑바닥의 비밀 교보문고 링크](https://product.kyobobook.co.kr/detail/S000212650856)
 
 이 레포는 최은소가 루 샤오펑의 '컴퓨터 밑바닥의 비밀'을 읽고 정리한 내용을 포함합니다.
